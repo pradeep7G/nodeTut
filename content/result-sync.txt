@@ -1,0 +1,5 @@
+Here is the result hello , this is first text file, hello , this is second text fileHere is the result hello , this is first text file, hello , this is second text fileHere is the result hello , this is first text file, hello , this is second text file
+
+hello world
+
+Here is the result hello , this is first text file, hello , this is second text fileHere is the result hello , this is first text file, hello , this is second text file
